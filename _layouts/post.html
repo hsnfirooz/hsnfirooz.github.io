@@ -1,0 +1,42 @@
+---
+layout : default
+---
+    <h3 style="margin-top:0">
+    <a style="box-shadow:none;text-decoration:none;color:inherit" href="{{ site.url }}">‹ {{ site.title }}</a>
+    </h3>
+
+    <h1>{{ page.title }}</h1>
+    <p style="font-size:0.83255rem;line-height:1.75rem;color:#aaabd3;display:block;margin-bottom:1.75rem;margin-top:-1.75rem">
+            {{ page.date | jdate: "%A %d %b %Y" | habify }}
+    </p>
+ 
+    {{ content }}
+
+    <small id="post-tags">
+            <i class="fas fa-tag">کلمات کلیدی: </i>
+        {% for tag in page.tags %}
+          <i class="fas fa-tag"></i>
+          <a style="box-shadow: none;" rel="tag" href="{{ tag | tag_url  }}">{{ tag }} </a> - 
+        {% endfor %}
+    </small>  
+
+
+    <hr style="margin-bottom:1.75rem">
+    {% include sign.html %}
+    
+    <ul style="display:flex;flex-wrap:wrap;justify-content:space-between;list-style:none;padding:0">
+        {% if page.previous %}
+        <li><a rel="prev" style="box-shadow:none;" href="{{ page.previous.url }}">→ {{ page.previous.title }}</a>
+        </li>
+        {% else %}
+        <li></li>
+        {% endif %}
+
+        {% if page.next %}
+        <li><a rel="next" style="box-shadow:none;" href="{{ page.next.url }}">{{ page.next.title }} ←</a>
+        </li>
+        {% else %}
+        <li></li>
+        {% endif %}
+        </ul>
+

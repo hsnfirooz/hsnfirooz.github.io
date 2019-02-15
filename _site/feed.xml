@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+    <channel>
+        <title>حمزه جوادی</title>
+        <link>http://localhost:4000</link>
+        <description>اندیشه هایی خام به قلم حمزه جوادی.</description>
+        <lastBuildDate>Fri, 15 Feb 2019 10:12:09 +0330</lastBuildDate>
+        
+        <item>
+            <title>راه اندازی وبلاگ با جکیل</title>
+            <link>
+                http://localhost:4000/2019/02/04/weblog-with-jekyll.html
+            </link>
+            <description>
+                &lt;h2 id=&quot;اندکی-از-گذشته&quot;&gt;اندکی از گذشته&lt;/h2&gt;
+
+&lt;p&gt;پیشتر در دوره ی اوج وبلاگها، وبلاگ  &lt;a href=&quot;http://majnoon362.blogfa.com&quot;&gt;و اما بعد …!&lt;/a&gt; رو درست کرده بودم که اونجا دلنوشته هایی رو می نوشتم. به مرور زمان و با تغییر و به روز شدن تکنولوژیها و سرویس های ارائه دهنده ی وبلاگ، تصمیم گرفتم وبلاگهای جدیدی که دوست دارم راه بندازم رو توی سرویس بلاگ دات ...
+            </description>
+            <pubDate>Mon, 04 Feb 2019 00:00:00 +0330</pubDate>
+            <guid>
+                http://localhost:4000/2019/02/04/weblog-with-jekyll.html
+            </guid>
+        </item>
+        
+    </channel>
+</rss>

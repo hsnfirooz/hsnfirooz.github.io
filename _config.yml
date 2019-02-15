@@ -1,0 +1,22 @@
+title : حمزه جوادی
+author: حمزه جوادی
+baseurl: "" # the subpath of your site, e.g. /blog
+url: ""
+description: "اندیشه هایی خام به قلم حمزه جوادی."
+github: hjavadish
+virgool: hjavadish
+medium: hjavadish
+
+encoding: utf-8
+
+paginate: 20
+paginate_path: /page:num/
+
+markdown: kramdown
+tag_page_layout: tag_page
+tag_page_dir: tags
+
+plugins:
+   - jekyll-jalali
+   - jekyll-paginate
+   - jekyll/tagging
