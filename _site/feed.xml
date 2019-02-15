@@ -3,14 +3,14 @@
 
     <channel>
         <title>حمزه جوادی</title>
-        <link>https://hjavadish.github.io</link>
+        <link>http://localhost:4000</link>
         <description>اندیشه هایی خام به قلم حمزه جوادی.</description>
-        <lastBuildDate>Fri, 15 Feb 2019 21:22:52 +0330</lastBuildDate>
+        <lastBuildDate>Fri, 15 Feb 2019 21:37:33 +0330</lastBuildDate>
         
         <item>
             <title>راه اندازی وبلاگ با جکیل</title>
             <link>
-                https://hjavadish.github.io/2019/02/04/weblog-with-jekyll.html
+                http://localhost:4000/2019/02/04/weblog-with-jekyll.html
             </link>
             <description>
                 &lt;h2 id=&quot;اندکی-از-گذشته&quot;&gt;اندکی از گذشته&lt;/h2&gt;
@@ -19,7 +19,7 @@
             </description>
             <pubDate>Mon, 04 Feb 2019 00:00:00 +0330</pubDate>
             <guid>
-                https://hjavadish.github.io/2019/02/04/weblog-with-jekyll.html
+                http://localhost:4000/2019/02/04/weblog-with-jekyll.html
             </guid>
         </item>
         
