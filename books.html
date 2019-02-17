@@ -1,0 +1,8 @@
+---
+layout: page
+title: معرفی کتاب
+---
+{% for book in site.books %}
+<h2>{{ book.title }}</h2><small> {{ book.author }}</small>
+<p>{{ book.content | markdownify }}</p>
+{% endfor %}

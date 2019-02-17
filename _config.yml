@@ -6,7 +6,7 @@ description: "اندیشه هایی خام به قلم حمزه جوادی."
 github: hjavadish
 virgool: hjavadish
 medium: hjavadish
-
+permalink: none
 encoding: utf-8
 
 paginate: 20
@@ -15,6 +15,14 @@ paginate_path: /page:num/
 markdown: kramdown
 tag_page_layout: tag_page
 tag_page_dir: tags
+
+collections: 
+  projects:
+    output: true
+  books:
+   output: true
+
+
 
 plugins:
    - jekyll-jalali
