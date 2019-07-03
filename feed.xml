@@ -3,23 +3,57 @@
 
     <channel>
         <title>حمزه جوادی</title>
-        <link>https://hjavadish.github.io</link>
+        <link>http://localhost:4000</link>
         <description>اندیشه هایی خام به قلم حمزه جوادی.</description>
-        <lastBuildDate>Thu, 28 Feb 2019 09:42:55 +0330</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jul 2019 22:17:08 +0430</lastBuildDate>
+        
+        <item>
+            <title>آنچه زیباست و ناراحتمان میکند</title>
+            <link>
+                http://localhost:4000/beautiful.html
+            </link>
+            <description>
+                &lt;blockquote&gt;
+  &lt;p&gt;زیبایی چیزی نیست که در عالم بیرون به دنبال آن باشیم، بلکه حسی است که باید از درون زاده شود.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;روزی در حیاط ساختمانی دو کودک یک بازی دوست داشتنی می کردند. آنها از خودشان زبانی ویژه ساخته بودند که با آن میتوانستند با هم حرف بزنند، بدون اینکه دیگران حتی یک واژه از آن را بدانند.&lt;/p&gt;
+
+&lt;p&gt;یکی گفت: بریف، براف!&lt;/p&gt;
+
+&...
+            </description>
+            <pubDate>Mon, 17 Jun 2019 00:00:00 +0430</pubDate>
+            <guid>
+                http://localhost:4000/beautiful.html
+            </guid>
+        </item>
+        
+        <item>
+            <title>تاریخ شمسی در جکیل</title>
+            <link>
+                http://localhost:4000/go-to-_site.html
+            </link>
+            <description>
+                &lt;p&gt;وقتی از پلاگین jalalidate در جکیل استفاده می کنید و هم زمان می خواید کل وب سایت یا وبلاگتون رو روی گیت هاب قرار بدید. یه مشکل پیدا میشه. منظورم از کل سایت یا وبلاگ همون پوشه ها , فایلهای مربوط به جکیل  مثل Gemfile, _post, _config.yml و … هست که به سرور گیت هاب ارسال می کنید. تو این حالت عملیات build که تبدیل کدهای و نوشته های جکیل به فایلهای استاتیک هست رو سرور گیت انجام میده. مشکلی که...
+            </description>
+            <pubDate>Sun, 16 Jun 2019 00:00:00 +0430</pubDate>
+            <guid>
+                http://localhost:4000/go-to-_site.html
+            </guid>
+        </item>
         
         <item>
             <title>راه اندازی وبلاگ با جکیل</title>
             <link>
-                https://hjavadish.github.io/weblog-with-jekyll.html
+                http://localhost:4000/weblog-with-jekyll.html
             </link>
             <description>
-                &lt;h2 id=&quot;اندکی-از-گذشته&quot;&gt;اندکی از گذشته&lt;/h2&gt;
-
-&lt;p&gt;پیشتر در دوره ی اوج وبلاگها، وبلاگ  &lt;a href=&quot;http://majnoon362.blogfa.com&quot;&gt;و اما بعد …!&lt;/a&gt; رو درست کرده بودم که اونجا دلنوشته هایی رو می نوشتم. به مرور زمان و با تغییر و به روز شدن تکنولوژیها و سرویس های ارائه دهنده ی وبلاگ، تصمیم گرفتم وبلاگهای جدیدی که دوست دارم راه بندازم رو توی سرویس بلاگ دات ...
+                &lt;p&gt;پیشتر در دوره ی اوج وبلاگها، وبلاگ  &lt;a href=&quot;http://majnoon362.blogfa.com&quot;&gt;و اما بعد …!&lt;/a&gt; رو درست کرده بودم که اونجا دلنوشته هایی رو می نوشتم. به مرور زمان و با تغییر و به روز شدن تکنولوژیها و سرویس های ارائه دهنده ی وبلاگ، تصمیم گرفتم وبلاگهای جدیدی که دوست دارم راه بندازم رو توی سرویس بلاگ دات آی آر (کاری از شرکت بیان) درست کنم. یک وب لاگ به نام &lt;a href=&qu...
             </description>
             <pubDate>Mon, 04 Feb 2019 00:00:00 +0330</pubDate>
             <guid>
-                https://hjavadish.github.io/weblog-with-jekyll.html
+                http://localhost:4000/weblog-with-jekyll.html
             </guid>
         </item>
         
