@@ -1,0 +1,14 @@
+---
+layout : default
+---
+    <h3 style="margin-top:0">
+    <a style="box-shadow:none;text-decoration:none;color:inherit" href="{{ site.url }}">‹ {{ site.title }}</a>
+    </h3>
+
+    <h2>{{ page.title }}</h2>
+            {{ page.date | habify }}
+    {{ content }}
+
+    <hr style="margin-bottom:1.75rem;margin-top:1.75rem">
+    {% include sign.html %}
+    
