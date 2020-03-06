@@ -6,21 +6,19 @@
           <meta name="keywords" content='{{ page.tags | join: "," }}' />
         {% elsif page.url contains site.tag_page_dir %}
           <meta name="robots" content="noindex">
-        {% else %}
-          <meta name="keywords" content='{{ site.keywords | split: " " | join: "," }}' />
         {% endif %}
-    
+        {% if page.keywords %}
+          <meta name="keywords" content='{{ page.keywords | split: " " | join: "," }}' />
+        {% endif %}    
         {% if page.title %}
           <title>{{ page.title }} {% if site.title %} - {{ site.title}} {% endif %}</title>
         {% else %}
-          <title>{{ site.title }}</title>
+          <title>{{ site.description }}</title>
         {% endif %}  
     </head>
     <body>
         <div class="maindiv">
-            {% include navigation.html %}
-            {{ content }}
-            
+            {{ content }}           
             {% include footer.html %}
         </div>
     </body>

@@ -2,15 +2,15 @@
 <rss version="2.0">
 
     <channel>
-        <title>حمزه جوادی شکرو</title>
-        <link>http://javadi.daloo.ir</link>
-        <description>اندیشه هایی خام به قلم حمزه جوادی شکرو.</description>
-        <lastBuildDate>Wed, 18 Dec 2019 01:34:57 +0330</lastBuildDate>
+        <title>اندیشه های خام</title>
+        <link>http://asdf.ir</link>
+        <description>اندیشه هایی خام به قلم حمزه جوادی شکرو. یک برنامه نویس از شیراز</description>
+        <lastBuildDate>Fri, 06 Mar 2020 17:43:58 +0330</lastBuildDate>
         
         <item>
             <title>آنچه زیباست و ناراحتمان میکند</title>
             <link>
-                http://javadi.daloo.ir/beautiful.html
+                http://asdf.ir/beautiful.html
             </link>
             <description>
                 &lt;blockquote&gt;
@@ -23,35 +23,35 @@
             </description>
             <pubDate>Mon, 17 Jun 2019 00:00:00 +0430</pubDate>
             <guid>
-                http://javadi.daloo.ir/beautiful.html
+                http://asdf.ir/beautiful.html
             </guid>
         </item>
         
         <item>
             <title>تاریخ شمسی در جکیل</title>
             <link>
-                http://javadi.daloo.ir/go-to-_site.html
+                http://asdf.ir/go-to-_site.html
             </link>
             <description>
                 &lt;p&gt;وقتی از پلاگین jalalidate در جکیل استفاده می کنید و هم زمان می خواید کل وب سایت یا وبلاگتون رو روی گیت هاب قرار بدید. یه مشکل پیدا میشه. منظورم از کل سایت یا وبلاگ همون پوشه ها , فایلهای مربوط به جکیل  مثل Gemfile, _post, _config.yml و … هست که به سرور گیت هاب ارسال می کنید. تو این حالت عملیات build که تبدیل کدهای و نوشته های جکیل به فایلهای استاتیک هست رو سرور گیت انجام میده. مشکلی که...
             </description>
             <pubDate>Sun, 16 Jun 2019 00:00:00 +0430</pubDate>
             <guid>
-                http://javadi.daloo.ir/go-to-_site.html
+                http://asdf.ir/go-to-_site.html
             </guid>
         </item>
         
         <item>
             <title>راه اندازی وبلاگ با جکیل</title>
             <link>
-                http://javadi.daloo.ir/weblog-with-jekyll.html
+                http://asdf.ir/weblog-with-jekyll.html
             </link>
             <description>
                 &lt;p&gt;پیشتر در دوره ی اوج وبلاگها، وبلاگ  &lt;a href=&quot;http://majnoon362.blogfa.com&quot;&gt;و اما بعد …!&lt;/a&gt; رو درست کرده بودم که اونجا دلنوشته هایی رو می نوشتم. به مرور زمان و با تغییر و به روز شدن تکنولوژیها و سرویس های ارائه دهنده ی وبلاگ، تصمیم گرفتم وبلاگهای جدیدی که دوست دارم راه بندازم رو توی سرویس بلاگ دات آی آر (کاری از شرکت بیان) درست کنم. یک وب لاگ به نام &lt;a href=&qu...
             </description>
             <pubDate>Mon, 04 Feb 2019 00:00:00 +0330</pubDate>
             <guid>
-                http://javadi.daloo.ir/weblog-with-jekyll.html
+                http://asdf.ir/weblog-with-jekyll.html
             </guid>
         </item>
         

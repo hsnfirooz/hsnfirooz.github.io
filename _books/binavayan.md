@@ -4,20 +4,15 @@ title: بینوایان
 author: ویکتور هوگو
 subject: رمان
 ---
-<div style="display:flex;margin-bottom:4.375rem">
-    <div style="position:relative;overflow:hidden;display:inline-block;width:150px;height:250px;margin-right:0.875rem;margin-bottom:0;min-width:150px;">
-        <img src="{{ site.url }}/{{ 'assets/image/books/themiserables.jpg' }}" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; object-fit: cover; object-position: center center; transition: opacity 2.5s ease 0.5s; ">
-    </div>
-    <p style="padding-right:0.8rem;font-size:14px">
+<div style="font-size:14px;clear:right;text-align:justify;">
+        <img src="{{ site.url }}/{{ 'assets/image/books/themiserables.jpg' }}"
+        style="float:right;width:150px;height:200px;padding-left:15px;margin-bottom:0px;" >
 رمان بینوایان بی شک یکی از بهترین نمونه های رمان تاریخ بشر است. 
 این کتاب در کنار داستانی بسیار آموزنده و گیرا، سرشار از قطعات ادبی زیبا و روح نواز است که نشان از ذوق اندیشه و مهارت بینظیر نویسنده دارد.  <br>
 برگردان فارسی این کتاب که توسط آقای حسینقلی مستعان انجام شده است انصافا بر زیبایی ی کتاب افزوده است.  <br>
-
-در ادامه برخی از یادداشت برداری های من در زمانی که غرق لذت خواندن این کتاب بوده ام را آورده ام.   
-
-    </p>
-</div>
-
+در ادامه برخی از یادداشت برداری های خود را در زمانی که غرق لذت خواندن این کتاب بوده ام را آورده ام.
+    </div>  
+  <div style="clear:right;padding-top:15px;"></div>
 - کودکان نیز مانند پرندگان نغمات خاصی برای بامداد دارند.  
 
 - موازنه ی تقدیر چه راز ملکوتی و تحقیق ناپذیری است.

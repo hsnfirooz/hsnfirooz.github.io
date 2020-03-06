@@ -1,9 +1,9 @@
 ---
 layout : default
 ---
-<h3 style="margin-top:0;margin-bottom:4rem;">
+<h1 style="margin-top:0;margin-bottom:4rem;">
     {{ site.title }}
-</h3>
+</h1>
 
 {% include sign.html %}
 
@@ -16,6 +16,6 @@ layout : default
         <small style="color:#aaabd3;">
                 {{ post.date | jdate: "%A %d %b %Y" }}
         </small>
-        <p>{{ post.content | strip_html | truncatewords: 35 }}</p>
+        <p style="text-align:justify">{{ post.content | strip_html | truncatewords: 35 }}</p>
     </div>
 {% endfor %}
