@@ -2,7 +2,7 @@ title : اندیشه های خام
 author: حمزه جوادی شکرو
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://asdf.ir"
-description: "اندیشه هایی خام به قلم حمزه جوادی شکرو. یک برنامه نویس از شیراز"
+description: "اندیشه های خام به قلم حمزه جوادی شکرو. یک برنامه نویس از شیراز"
 github: hjavadish
 virgool: hjavadish
 medium: hjavadish
@@ -22,8 +22,6 @@ collections:
     output: true
   books:
    output: true
-
-
 
 plugins:
    - jekyll-jalali

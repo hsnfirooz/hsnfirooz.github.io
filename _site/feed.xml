@@ -4,8 +4,22 @@
     <channel>
         <title>اندیشه های خام</title>
         <link>http://asdf.ir</link>
-        <description>اندیشه هایی خام به قلم حمزه جوادی شکرو. یک برنامه نویس از شیراز</description>
-        <lastBuildDate>Fri, 06 Mar 2020 17:43:58 +0330</lastBuildDate>
+        <description>اندیشه های خام به قلم حمزه جوادی شکرو. یک برنامه نویس از شیراز</description>
+        <lastBuildDate>Sat, 14 Mar 2020 23:12:33 +0330</lastBuildDate>
+        
+        <item>
+            <title>کتابهایی که در سال 98 خوانده ام</title>
+            <link>
+                http://asdf.ir/book-list-1398.html
+            </link>
+            <description>
+                &lt;p&gt;بیشتر وبلاگ هایی را که دنبال می کنم - مثل &lt;a href=&quot;http://foad-ansari.ir&quot;&gt;این&lt;/a&gt; - لیست کتابهایی رو که خوندن به طور سالیانه با یه معرفی کوتاه منتشر می کنن. خیلی بعیده که بشه این کارها رو رو حساب فخر فروشی و ژست کتاب خون گرفتن بزاریم. چون به نظر من خوندن کتاب نشانه ای از بالا بودن فرهنگ یا هر چیز دیگه ای که بشه بهش افتخار کرد نیست. درسته که آدم با خوندن کتاب از هد...
+            </description>
+            <pubDate>Sat, 14 Mar 2020 00:00:00 +0330</pubDate>
+            <guid>
+                http://asdf.ir/book-list-1398.html
+            </guid>
+        </item>
         
         <item>
             <title>آنچه زیباست و ناراحتمان میکند</title>

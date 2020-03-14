@@ -4,3 +4,13 @@
     max-width:42rem;
     padding:2.625rem 1.3125rem;
 }
+a.footer{
+    color:inherit;box-shadow:none;text-decoration:none
+}
+footer{
+    font-size:0.83255rem;
+line-height:1.75rem;
+text-align:center;
+color:hsla(0,0%,0%,0.55);
+margin-top:3.5rem
+}
