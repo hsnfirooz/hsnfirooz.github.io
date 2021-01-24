@@ -3,28 +3,28 @@
 
     <channel>
         <title>اندیشه های خام</title>
-        <link>http://asdf.ir</link>
+        <link>http://localhost:4000</link>
         <description>اندیشه های خام به قلم حمزه جوادی شکرو. یک برنامه نویس از شیراز</description>
-        <lastBuildDate>Sat, 21 Mar 2020 09:43:53 -0400</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jan 2021 22:42:25 +0330</lastBuildDate>
         
         <item>
             <title>کتابهایی که در سال 98 خوانده ام</title>
             <link>
-                http://asdf.ir/book-list-1398.html
+                http://localhost:4000/book-list-1398.html
             </link>
             <description>
                 &lt;p&gt;بیشتر وبلاگ هایی را که دنبال می کنم - مثل &lt;a href=&quot;http://foad-ansari.ir&quot;&gt;این&lt;/a&gt; - لیست کتابهایی رو که خوندن به طور سالیانه با یه معرفی کوتاه منتشر می کنن. خیلی بعیده که بشه این کارها رو رو حساب فخر فروشی و ژست کتاب خون گرفتن بزاریم. چون به نظر من خوندن کتاب نشانه ای از بالا بودن فرهنگ یا هر چیز دیگه ای که بشه بهش افتخار کرد نیست. درسته که آدم با خوندن کتاب از هد...
             </description>
-            <pubDate>Sat, 14 Mar 2020 00:00:00 -0400</pubDate>
+            <pubDate>Sat, 14 Mar 2020 00:00:00 +0330</pubDate>
             <guid>
-                http://asdf.ir/book-list-1398.html
+                http://localhost:4000/book-list-1398.html
             </guid>
         </item>
         
         <item>
             <title>آنچه زیباست و ناراحتمان میکند</title>
             <link>
-                http://asdf.ir/beautiful.html
+                http://localhost:4000/beautiful.html
             </link>
             <description>
                 &lt;blockquote&gt;
@@ -35,37 +35,37 @@
 
 &lt;p&gt;یکی گفت: بریف، براف! &lt;br /&gt;...
             </description>
-            <pubDate>Mon, 17 Jun 2019 00:00:00 -0400</pubDate>
+            <pubDate>Mon, 17 Jun 2019 00:00:00 +0430</pubDate>
             <guid>
-                http://asdf.ir/beautiful.html
+                http://localhost:4000/beautiful.html
             </guid>
         </item>
         
         <item>
             <title>تاریخ شمسی در جکیل</title>
             <link>
-                http://asdf.ir/go-to-_site.html
+                http://localhost:4000/go-to-_site.html
             </link>
             <description>
                 &lt;p&gt;وقتی از پلاگین jalalidate در جکیل استفاده می کنید و هم زمان می خواید کل وب سایت یا وبلاگتون رو روی گیت هاب قرار بدید. یه مشکل پیدا میشه. منظورم از کل سایت یا وبلاگ همون پوشه ها , فایلهای مربوط به جکیل  مثل Gemfile, _post, _config.yml و … هست که به سرور گیت هاب ارسال می کنید. تو این حالت عملیات build که تبدیل کدهای و نوشته های جکیل به فایلهای استاتیک هست رو سرور گیت انجام میده. مشکلی که...
             </description>
-            <pubDate>Sun, 16 Jun 2019 00:00:00 -0400</pubDate>
+            <pubDate>Sun, 16 Jun 2019 00:00:00 +0430</pubDate>
             <guid>
-                http://asdf.ir/go-to-_site.html
+                http://localhost:4000/go-to-_site.html
             </guid>
         </item>
         
         <item>
             <title>راه اندازی وبلاگ با جکیل</title>
             <link>
-                http://asdf.ir/weblog-with-jekyll.html
+                http://localhost:4000/weblog-with-jekyll.html
             </link>
             <description>
                 &lt;p&gt;پیشتر در دوره ی اوج وبلاگها، وبلاگ  &lt;a href=&quot;http://majnoon362.blogfa.com&quot;&gt;و اما بعد …!&lt;/a&gt; رو درست کرده بودم که اونجا دلنوشته هایی رو می نوشتم. به مرور زمان و با تغییر و به روز شدن تکنولوژیها و سرویس های ارائه دهنده ی وبلاگ، تصمیم گرفتم وبلاگهای جدیدی که دوست دارم راه بندازم رو توی سرویس بلاگ دات آی آر (کاری از شرکت بیان) درست کنم. یک وب لاگ به نام &lt;a href=&qu...
             </description>
-            <pubDate>Mon, 04 Feb 2019 00:00:00 -0500</pubDate>
+            <pubDate>Mon, 04 Feb 2019 00:00:00 +0330</pubDate>
             <guid>
-                http://asdf.ir/weblog-with-jekyll.html
+                http://localhost:4000/weblog-with-jekyll.html
             </guid>
         </item>
         
