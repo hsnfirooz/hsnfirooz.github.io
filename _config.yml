@@ -21,7 +21,10 @@ collections:
   projects:
     output: true
   books:
-   output: true
+    output: true
+  pages:
+    output: true
+   
 
 plugins:
    - jekyll-jalali
