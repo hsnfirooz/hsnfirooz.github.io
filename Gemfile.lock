@@ -125,6 +125,7 @@ GEM
     jekyll-github-metadata (2.13.0)
       jekyll (>= 3.4, < 5.0)
       octokit (~> 4.0, != 4.4.0)
+    jekyll-hinduarabic (0.1.1)
     jekyll-include-cache (0.2.1)
       jekyll (>= 3.7, < 5.0)
     jekyll-jalali (0.1.2)
@@ -268,6 +269,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (~> 228)
   jekyll (~> 3.9.3)
+  jekyll-hinduarabic
   jekyll-jalali
   jekyll-paginate
   jekyll-tagging
