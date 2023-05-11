@@ -8,7 +8,7 @@ on:
 jobs:
   build-deploy:
     name: Deploy website
-    runs-on: latest-ubuntu
+    runs-on: ubuntu-latest
 
     steps:
     - name: Checkout website code
