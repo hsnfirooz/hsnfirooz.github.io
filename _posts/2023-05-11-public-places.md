@@ -3,7 +3,7 @@
 layout: post
 title: فضاهای شهری
 tags: سوئیس
-categories: عمومی
+categories: blog
 telegram_post_id: 289
 ---
 
