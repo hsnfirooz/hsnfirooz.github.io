@@ -11,7 +11,7 @@ layout : default
             <a style="box-shadow:none" href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>        
         </h3>
         <small style="color:#aaabd3;">
-                {{ post.date | jdate: "%d %b %Y" }}
+                {{ post.date | jdate: "%d %b %Y" | habify }}
         </small>
     </div>
 {% endfor %}

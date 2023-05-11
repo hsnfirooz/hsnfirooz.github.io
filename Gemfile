@@ -20,11 +20,12 @@ source "https://rubygems.org"
 
  gem "webrick"
 
-# If you have any plugins, put them here!
+ # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-jalali"
   gem "jekyll-tagging"
+  gem "jekyll-hinduarabic" 
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
