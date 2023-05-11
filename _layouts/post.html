@@ -28,8 +28,11 @@ layout : default
    
         {% endfor %}
     </small>  
-
-
+    
+    {% if page.telegram_post_id %}
+    <script async src="https://telegram.org/js/telegram-widget.js?22" data-telegram-discussion="hsnblog/{{page.telegram_post_id}}" data-comments-limit="5"></script>
+    {% endif %}
+    
     <hr style="margin-bottom:1.75rem;margin-top:1.75rem">
     
     <ul style="display:flex;flex-wrap:wrap;justify-content:space-between;list-style:none;padding:0">
