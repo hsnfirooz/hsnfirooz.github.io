@@ -1,7 +1,7 @@
 title : مشاهدات حسین از اروپا
 author: حسین فیروز
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "hsnfirooz.github.io"
+baseurl: "hsnfirooz.github.io" # the subpath of your site, e.g. /blog
+url: ""
 description: "مشاهدات حسین از اروپا"
 github: hsnfirooz
 virgool: hsnfirooz
