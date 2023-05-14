@@ -10,7 +10,7 @@ permalink: none
 encoding: utf-8
 copyrigth: مجوز کریتیو کامنز
 
-paginate: 20
+paginate: 15
 paginate_path: /page:num/
 
 markdown: kramdown

@@ -15,3 +15,23 @@ layout : default
         </small>
     </div>
 {% endfor %}
+
+<!-- Pagination links -->
+<br>
+  <ul style="display:flex;flex-wrap:wrap;justify-content:space-between;list-style:none;padding:0">
+    {% if paginator.previous_page %}
+    <li><a rel="prev" style="box-shadow:none;" href="{{ paginator.previous_page_path }}">→ صفحه قبلی</a>
+    </li>
+    {% else %}
+    <li></li>
+    {% endif %}
+    <span class="page_number ">
+        صفحه‌ی: {{ paginator.page | habify }} از {{ paginator.total_pages | habify }}
+    </span>
+    {% if paginator.next_page %}
+    <li><a rel="next" style="box-shadow:none;" href="{{ paginator.next_page_path }}">صفحه بعدی ←</a>
+    </li>
+    {% else %}
+    <li></li>
+    {% endif %}
+    </ul>
